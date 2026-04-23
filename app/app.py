@@ -239,7 +239,7 @@ with st.sidebar:
         label_visibility="collapsed",
     )
     st.markdown("---")
-    st.caption("Built with ❤️ by a CS Final-Year Student")
+    st.caption("Engineered by Quantitative Risk Intelligence Group")
 
 
 # ═════════════════════════════════════════════════════════════════════════════
@@ -672,7 +672,7 @@ elif page == "ℹ️  About":
     st.markdown("""
     <div class="hero">
       <h1>ℹ️ About This Project</h1>
-      <p>Credit Risk Assessment using Machine Learning – Final Year CS Project</p>
+      <p>Advanced Credit Risk Assessment using Machine Learning – Enterprise Analytics Solution</p>
     </div>
     """, unsafe_allow_html=True)
 
@@ -726,7 +726,7 @@ elif page == "ℹ️  About":
 
     ## 📁 Project Structure
     ```
-    rohini project/
+    Credit-Risk-Analytics-Platform/
     ├── data/               ← Dataset (auto-generated)
     ├── src/
     │   ├── data_loader.py

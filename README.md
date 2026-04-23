@@ -1,6 +1,6 @@
 # 💰 Credit Risk Assessment using Predictive Analytics
 
-> **Final-Year Computer Science Project** | Machine Learning | Python | Streamlit
+> **AI-Driven Credit Risk Intelligence System** | Machine Learning | Python | Streamlit
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.4-orange)](https://scikit-learn.org)
@@ -18,7 +18,7 @@ Banks and financial institutions face enormous risk when lending money. A poor c
 ## 📁 Project Structure
 
 ```
-rohini project/
+Credit-Risk-Analytics-Platform/
 ├── data/
 │   └── credit_data.csv          ← Auto-generated realistic dataset (5,000 rows)
 ├── src/
@@ -206,4 +206,4 @@ MIT License – Free to use for academic and personal projects.
 
 ---
 
-*Built with ❤️ | Credit Risk Assessment | Final Year CS Project*
+*Engineered for Excellence | Credit Risk Analytics Platform | Professional Risk Modeling*
